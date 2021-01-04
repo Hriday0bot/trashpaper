@@ -1,1 +1,1 @@
-# trashpaper
+# Box Class
